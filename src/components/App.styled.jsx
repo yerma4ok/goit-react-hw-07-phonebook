@@ -9,7 +9,6 @@ export const Container = styled.div`
 
 export const MainTitle = styled.h1`
   margin-left: 50px;
-  margin-top: 30px;
   margin-bottom: 30px;
   padding-top: 20px;
   font-size: 40px;
@@ -20,6 +19,7 @@ export const MainTitle = styled.h1`
 
 export const ContactTitle = styled.h2`
   margin-left: 50px;
+  margin-top: 30px;
   font-size: 30px;
   letter-spacing: 0.06em;
   color: gray;
