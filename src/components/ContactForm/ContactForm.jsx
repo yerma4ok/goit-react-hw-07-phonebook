@@ -33,7 +33,6 @@ const ContactForm = () => {
     resetForm();
   };
 
-
   return (
     <FormContainer>
       <Formik
